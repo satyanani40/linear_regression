@@ -1,1 +1,2 @@
-# linear_regression
+# linear-regression
+Codes related to Linear Regression
